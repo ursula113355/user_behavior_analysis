@@ -18,3 +18,23 @@ Analyze user behavior and purchasing patterns.
 2. Load data into SQLite database
 3. Run SQL queries to analyze data
 4. Import SQL result into pandas
+
+## Analysis result
+
+### Users per city
+We analyzed the number of users in each city with SQL.
+
+### Users per platform
+We compared how many users use iOS, Android, Web.
+
+### Average purchase by city
+We calculated the average purchase amount of each city
+
+### Average purchase by platform
+We analyzed which platform has the highest average purchase.
+
+## Tech stack
+- python
+- pandas
+- SQLite
+- SQL
