@@ -48,4 +48,28 @@ platform_spending = pd.read_sql_query(query4, conn)
 print("\nAverage purchase by platform: ")
 print(platform_spending)
 
+# 5 不同时间段的消费
+query5 = """
+SELECT visit_time, AVG(purchase_amount) as avg_purchase
+FROM users
+GROUP BY visit_time
+ORDER BY avg_purchase DESC
+"""
+
+time_spending = pd.read_sql_query(query5,conn)
+print("Average purchase by time: ")
+print(time_spending)
+
+# 6 不同年龄段平均消费
+query6 = """
+SELECT age, AVG(purchase_amount) as avg_purchase
+FROM users
+GROUP BY age
+ORDER BY avg_purchase DESC
+"""
+
+age_spending = pd.read_sql_query(query6, conn)
+print("Average purchase by age")
+print(age_spending.head(5))
+
 conn.close()

@@ -28,7 +28,7 @@ We analyzed the number of users in each city with SQL.
 We compared how many users use iOS, Android, Web.
 
 ### Average purchase by city
-We calculated the average purchase amount of each city
+We calculated the average purchase amount of each city.
 
 ### Average purchase by platform
 We analyzed which platform has the highest average purchase.
@@ -38,3 +38,8 @@ We analyzed which platform has the highest average purchase.
 - pandas
 - SQLite
 - SQL
+
+## Key findings
+1. Users distribution across cities is relatively balanced and New York shows the highest purchase amount among all cities.
+2. iOS users tend to have slightly lower average purchase amount.
+3. Evening visits show the lowest average spending.
