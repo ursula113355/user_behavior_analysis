@@ -1,0 +1,1001 @@
+user_id,age,city,platform,purchase_amount,visit_time
+1,56,New York,iOS,150,Afternoon
+2,46,Chicago,iOS,67,Afternoon
+3,32,Seattle,iOS,120,Afternoon
+4,25,Seattle,Android,117,Afternoon
+5,38,New York,Web,51,Afternoon
+6,56,Boston,Android,61,Afternoon
+7,36,Chicago,Android,122,Morning
+8,40,Chicago,iOS,49,Evening
+9,28,Chicago,Android,165,Afternoon
+10,28,Chicago,Android,149,Afternoon
+11,41,Seattle,iOS,8,Evening
+12,53,Seattle,Android,152,Morning
+13,57,Boston,iOS,51,Evening
+14,41,Chicago,iOS,147,Evening
+15,20,Chicago,iOS,51,Afternoon
+16,39,New York,iOS,82,Evening
+17,19,Seattle,Android,128,Evening
+18,41,Chicago,iOS,79,Afternoon
+19,47,Boston,iOS,107,Afternoon
+20,55,Boston,Android,141,Afternoon
+21,19,Seattle,Android,94,Afternoon
+22,38,Boston,Web,148,Evening
+23,50,Boston,Android,73,Evening
+24,29,Seattle,Android,65,Morning
+25,39,Chicago,Web,142,Morning
+26,42,Chicago,Android,54,Evening
+27,44,Boston,Android,7,Morning
+28,59,Boston,Android,111,Evening
+29,45,Chicago,Android,117,Morning
+30,33,Seattle,Web,98,Afternoon
+31,32,Boston,Android,122,Morning
+32,20,New York,Android,85,Afternoon
+33,54,Seattle,Web,113,Afternoon
+34,24,Boston,iOS,55,Afternoon
+35,38,Boston,Web,151,Afternoon
+36,26,New York,iOS,174,Morning
+37,56,New York,Web,39,Evening
+38,35,Chicago,Web,50,Afternoon
+39,21,Seattle,Android,158,Morning
+40,42,Seattle,iOS,73,Afternoon
+41,31,Chicago,Android,97,Morning
+42,26,Seattle,iOS,68,Morning
+43,43,Seattle,Web,169,Morning
+44,19,Seattle,Web,53,Evening
+45,37,Seattle,iOS,153,Morning
+46,45,Seattle,Android,78,Morning
+47,24,New York,Android,196,Evening
+48,25,Seattle,Android,9,Evening
+49,52,New York,Android,104,Morning
+50,31,Seattle,Web,74,Evening
+51,34,Chicago,Web,94,Afternoon
+52,53,Boston,Web,8,Afternoon
+53,57,New York,Web,130,Evening
+54,21,Seattle,Web,43,Evening
+55,19,Chicago,Android,167,Morning
+56,23,Boston,Android,133,Evening
+57,59,New York,Android,28,Morning
+58,21,Boston,Android,61,Afternoon
+59,46,Chicago,Web,104,Evening
+60,35,New York,Web,74,Morning
+61,43,Boston,Web,45,Morning
+62,51,Seattle,iOS,186,Afternoon
+63,27,New York,Android,178,Evening
+64,53,Boston,Android,64,Afternoon
+65,31,Chicago,Web,112,Morning
+66,48,Chicago,Android,192,Morning
+67,32,New York,Android,61,Evening
+68,25,Boston,Web,35,Morning
+69,31,New York,iOS,88,Evening
+70,40,New York,iOS,156,Afternoon
+71,57,Boston,iOS,40,Evening
+72,38,Boston,Web,162,Evening
+73,33,Seattle,Android,156,Morning
+74,35,Boston,Web,112,Morning
+75,41,Chicago,Web,110,Evening
+76,43,New York,Android,162,Morning
+77,42,New York,iOS,90,Morning
+78,58,Chicago,iOS,139,Morning
+79,46,Boston,Web,167,Evening
+80,32,Chicago,iOS,187,Morning
+81,18,Chicago,Web,18,Evening
+82,42,Seattle,Web,124,Morning
+83,24,Chicago,Android,142,Afternoon
+84,26,New York,Android,84,Morning
+85,41,Chicago,Android,148,Morning
+86,18,New York,Web,186,Evening
+87,25,New York,Android,110,Evening
+88,41,New York,iOS,74,Morning
+89,28,Boston,iOS,48,Afternoon
+90,34,Seattle,Web,77,Morning
+91,25,New York,Web,49,Morning
+92,52,New York,Android,188,Afternoon
+93,52,Boston,Web,111,Evening
+94,50,New York,Web,88,Morning
+95,22,Chicago,iOS,86,Evening
+96,59,Chicago,iOS,111,Evening
+97,56,Seattle,Android,189,Afternoon
+98,58,New York,Web,25,Afternoon
+99,45,Boston,Web,182,Evening
+100,24,Chicago,iOS,165,Morning
+101,26,Boston,Web,11,Evening
+102,25,Boston,iOS,74,Morning
+103,29,Chicago,Android,131,Morning
+104,51,Boston,iOS,147,Afternoon
+105,50,Chicago,Web,164,Morning
+106,40,Boston,Android,152,Morning
+107,41,Chicago,iOS,147,Evening
+108,54,New York,iOS,180,Afternoon
+109,52,Seattle,Android,153,Morning
+110,57,Chicago,Android,174,Morning
+111,39,Chicago,iOS,158,Afternoon
+112,44,Seattle,Web,124,Evening
+113,52,Chicago,iOS,132,Afternoon
+114,18,Chicago,Android,146,Afternoon
+115,52,Boston,iOS,61,Morning
+116,54,Seattle,Android,169,Morning
+117,31,New York,Android,62,Evening
+118,20,Chicago,Web,25,Morning
+119,18,Seattle,Android,86,Morning
+120,22,Boston,Android,73,Afternoon
+121,43,New York,Web,135,Morning
+122,31,Seattle,Android,91,Evening
+123,56,New York,Web,169,Afternoon
+124,44,New York,Web,53,Evening
+125,26,New York,Android,151,Afternoon
+126,32,Chicago,Android,119,Morning
+127,32,Chicago,iOS,93,Afternoon
+128,43,Boston,Web,89,Afternoon
+129,59,Boston,iOS,132,Morning
+130,30,Seattle,Android,144,Morning
+131,49,Boston,iOS,193,Evening
+132,56,New York,Web,173,Evening
+133,49,New York,iOS,165,Morning
+134,21,Chicago,Web,182,Morning
+135,47,New York,Android,121,Morning
+136,54,Seattle,Android,131,Afternoon
+137,40,New York,Web,75,Afternoon
+138,56,New York,Android,90,Afternoon
+139,32,Seattle,Android,37,Morning
+140,46,Boston,Android,85,Evening
+141,53,Boston,Android,156,Morning
+142,30,Seattle,Web,65,Afternoon
+143,49,Chicago,iOS,65,Afternoon
+144,24,New York,iOS,102,Morning
+145,39,Seattle,Android,32,Morning
+146,45,New York,iOS,190,Afternoon
+147,19,Chicago,iOS,47,Afternoon
+148,59,New York,Android,173,Afternoon
+149,23,Seattle,Android,171,Morning
+150,45,New York,iOS,90,Afternoon
+151,45,Boston,Web,181,Afternoon
+152,37,Chicago,Android,21,Evening
+153,47,Chicago,Web,102,Morning
+154,28,Chicago,iOS,102,Evening
+155,45,Seattle,Android,69,Evening
+156,42,Chicago,Web,78,Afternoon
+157,56,Boston,Android,89,Morning
+158,50,Seattle,iOS,9,Afternoon
+159,18,Boston,Web,6,Morning
+160,44,New York,iOS,26,Evening
+161,30,New York,iOS,116,Morning
+162,58,New York,Android,61,Afternoon
+163,20,New York,Web,70,Afternoon
+164,56,Boston,iOS,78,Afternoon
+165,23,Seattle,iOS,102,Morning
+166,25,Seattle,Web,148,Evening
+167,44,Chicago,iOS,116,Evening
+168,26,Boston,iOS,183,Morning
+169,54,New York,Web,129,Afternoon
+170,50,Boston,Web,171,Evening
+171,59,Chicago,Web,90,Afternoon
+172,41,Chicago,Web,80,Morning
+173,32,Boston,Android,92,Afternoon
+174,49,Boston,Web,172,Evening
+175,49,Boston,Android,42,Evening
+176,41,Seattle,Android,192,Afternoon
+177,58,New York,Android,63,Morning
+178,29,Boston,iOS,142,Afternoon
+179,56,Boston,Android,103,Morning
+180,19,Boston,Android,196,Afternoon
+181,20,Chicago,iOS,67,Evening
+182,54,Chicago,iOS,53,Morning
+183,34,Seattle,iOS,196,Morning
+184,19,New York,Web,36,Morning
+185,19,Seattle,iOS,139,Evening
+186,45,New York,iOS,25,Afternoon
+187,40,Chicago,Android,24,Evening
+188,54,Chicago,iOS,158,Morning
+189,49,Chicago,Web,131,Afternoon
+190,50,Seattle,iOS,72,Evening
+191,18,Boston,Web,114,Morning
+192,36,Boston,iOS,120,Morning
+193,19,Chicago,iOS,147,Evening
+194,43,Boston,iOS,124,Evening
+195,49,Boston,iOS,83,Evening
+196,23,Seattle,Web,120,Morning
+197,49,New York,Web,96,Evening
+198,21,Chicago,Android,18,Morning
+199,28,Chicago,Web,159,Evening
+200,34,Seattle,iOS,129,Morning
+201,55,Seattle,Android,172,Morning
+202,41,Boston,Android,62,Afternoon
+203,22,Chicago,Android,32,Evening
+204,51,New York,iOS,30,Evening
+205,23,Seattle,Web,117,Morning
+206,39,New York,iOS,195,Morning
+207,28,New York,Android,70,Morning
+208,33,Chicago,iOS,157,Afternoon
+209,50,Chicago,iOS,135,Afternoon
+210,26,Seattle,Web,48,Morning
+211,23,Chicago,Web,101,Evening
+212,33,Chicago,Android,46,Evening
+213,46,Chicago,iOS,10,Afternoon
+214,20,New York,iOS,171,Afternoon
+215,37,Seattle,Web,184,Morning
+216,53,Boston,iOS,27,Evening
+217,36,New York,iOS,93,Morning
+218,43,Chicago,iOS,127,Afternoon
+219,20,New York,Web,182,Evening
+220,36,Chicago,Android,175,Evening
+221,37,Chicago,Android,151,Afternoon
+222,49,New York,iOS,55,Morning
+223,24,Seattle,Android,15,Morning
+224,58,Chicago,Web,16,Evening
+225,50,Seattle,Web,78,Afternoon
+226,57,Boston,Android,12,Evening
+227,56,Chicago,Android,156,Afternoon
+228,35,Seattle,iOS,45,Morning
+229,57,Seattle,Android,168,Afternoon
+230,18,Boston,iOS,89,Morning
+231,28,Seattle,iOS,76,Afternoon
+232,45,Seattle,Web,59,Evening
+233,42,Boston,Web,141,Morning
+234,40,Chicago,Web,51,Evening
+235,48,Seattle,Web,147,Evening
+236,47,Seattle,Android,180,Morning
+237,59,Seattle,Web,108,Morning
+238,52,New York,Android,46,Evening
+239,24,Boston,Web,64,Evening
+240,33,New York,Android,16,Evening
+241,43,Boston,iOS,134,Evening
+242,19,Chicago,Android,11,Morning
+243,18,Chicago,Android,84,Morning
+244,29,Seattle,Web,135,Evening
+245,22,Boston,Android,113,Afternoon
+246,54,Chicago,iOS,7,Afternoon
+247,49,Boston,iOS,31,Morning
+248,26,Chicago,Web,118,Evening
+249,58,New York,iOS,111,Evening
+250,52,Chicago,Android,44,Morning
+251,36,New York,iOS,165,Afternoon
+252,33,Chicago,Web,133,Afternoon
+253,20,Seattle,Android,12,Afternoon
+254,37,New York,Web,105,Morning
+255,41,Chicago,Android,164,Afternoon
+256,50,Seattle,iOS,128,Morning
+257,41,New York,Web,180,Morning
+258,28,Seattle,Web,111,Evening
+259,25,Boston,Android,105,Afternoon
+260,53,Boston,Web,8,Morning
+261,55,New York,Android,114,Afternoon
+262,57,Chicago,Android,23,Afternoon
+263,37,New York,Android,36,Evening
+264,52,Seattle,Android,141,Afternoon
+265,42,Chicago,iOS,16,Evening
+266,52,Boston,Android,143,Morning
+267,42,Chicago,Web,50,Afternoon
+268,46,Boston,iOS,123,Morning
+269,35,Chicago,Web,20,Afternoon
+270,35,Chicago,iOS,133,Morning
+271,19,Chicago,Android,67,Afternoon
+272,52,Seattle,iOS,113,Afternoon
+273,33,Seattle,iOS,123,Afternoon
+274,58,New York,Web,25,Afternoon
+275,53,New York,Web,162,Afternoon
+276,50,Boston,Android,17,Afternoon
+277,21,Seattle,iOS,166,Afternoon
+278,50,Boston,iOS,8,Afternoon
+279,31,New York,iOS,160,Afternoon
+280,38,Boston,Android,106,Morning
+281,37,New York,Android,63,Evening
+282,25,Seattle,Android,132,Afternoon
+283,24,Chicago,Android,31,Evening
+284,20,Seattle,Android,73,Afternoon
+285,34,Boston,Web,29,Afternoon
+286,50,Boston,iOS,135,Morning
+287,29,Seattle,iOS,101,Morning
+288,39,Seattle,iOS,29,Evening
+289,39,New York,iOS,152,Morning
+290,47,Boston,iOS,166,Morning
+291,55,Boston,iOS,158,Evening
+292,55,Seattle,iOS,130,Morning
+293,25,Chicago,iOS,137,Afternoon
+294,44,Boston,Web,193,Evening
+295,44,Chicago,iOS,13,Evening
+296,51,Seattle,Web,120,Afternoon
+297,38,Seattle,Android,182,Morning
+298,47,New York,iOS,138,Evening
+299,50,Boston,Android,64,Evening
+300,45,Chicago,Android,176,Afternoon
+301,50,New York,Android,125,Afternoon
+302,22,Boston,Web,143,Morning
+303,36,New York,Android,198,Evening
+304,21,Seattle,Android,179,Morning
+305,52,Boston,Android,112,Morning
+306,34,New York,iOS,112,Afternoon
+307,45,New York,iOS,135,Evening
+308,47,Chicago,Web,80,Evening
+309,46,New York,Web,34,Evening
+310,23,Boston,iOS,25,Afternoon
+311,52,Boston,Web,160,Afternoon
+312,58,Chicago,iOS,194,Afternoon
+313,54,Boston,Android,165,Afternoon
+314,41,Seattle,Android,167,Afternoon
+315,46,Boston,Web,184,Evening
+316,48,Boston,iOS,38,Morning
+317,52,New York,iOS,45,Evening
+318,50,New York,Web,55,Morning
+319,38,Boston,iOS,179,Afternoon
+320,49,Chicago,Android,86,Morning
+321,40,New York,Web,62,Evening
+322,50,Chicago,Web,79,Evening
+323,20,Boston,iOS,189,Morning
+324,35,Boston,Web,27,Afternoon
+325,42,Seattle,iOS,180,Afternoon
+326,59,New York,iOS,132,Evening
+327,48,Boston,iOS,154,Morning
+328,20,Seattle,iOS,21,Afternoon
+329,57,New York,iOS,73,Afternoon
+330,41,Boston,Web,112,Evening
+331,49,Boston,Android,143,Afternoon
+332,39,New York,Android,98,Morning
+333,40,New York,Web,19,Evening
+334,19,New York,Web,95,Evening
+335,44,Boston,Android,167,Morning
+336,59,Boston,Android,37,Evening
+337,19,Seattle,Android,129,Afternoon
+338,43,Chicago,Android,20,Afternoon
+339,34,New York,Android,166,Morning
+340,57,Boston,iOS,70,Afternoon
+341,50,Boston,Web,172,Morning
+342,26,New York,iOS,160,Morning
+343,56,Chicago,Android,51,Afternoon
+344,46,New York,Android,171,Morning
+345,59,Chicago,Android,152,Afternoon
+346,43,Boston,iOS,128,Evening
+347,52,Chicago,iOS,5,Evening
+348,42,Seattle,Android,91,Morning
+349,41,Boston,iOS,132,Afternoon
+350,30,Seattle,iOS,195,Afternoon
+351,24,New York,Android,71,Evening
+352,53,New York,iOS,8,Evening
+353,37,New York,Web,190,Afternoon
+354,18,Chicago,Web,157,Morning
+355,25,Boston,Web,51,Evening
+356,33,New York,Web,42,Morning
+357,31,New York,Android,147,Morning
+358,29,Boston,Android,195,Evening
+359,40,New York,Android,25,Morning
+360,32,Seattle,Web,61,Morning
+361,45,Boston,Web,121,Afternoon
+362,51,Boston,iOS,185,Morning
+363,19,Boston,iOS,50,Afternoon
+364,49,Seattle,Web,146,Evening
+365,40,Boston,Web,149,Evening
+366,39,Seattle,Web,43,Afternoon
+367,42,Boston,Web,141,Evening
+368,39,Chicago,iOS,103,Morning
+369,39,New York,Web,81,Morning
+370,59,Chicago,iOS,119,Morning
+371,23,New York,Web,138,Evening
+372,32,Seattle,Web,155,Morning
+373,54,Chicago,Web,191,Evening
+374,50,Boston,iOS,95,Morning
+375,25,New York,iOS,102,Afternoon
+376,22,New York,Android,124,Evening
+377,56,Chicago,Web,50,Evening
+378,21,Seattle,Android,42,Morning
+379,23,Chicago,Android,146,Evening
+380,49,Seattle,iOS,104,Evening
+381,47,Seattle,iOS,76,Afternoon
+382,52,New York,Android,194,Afternoon
+383,57,Chicago,Web,39,Morning
+384,33,Chicago,iOS,151,Afternoon
+385,30,Seattle,Web,34,Morning
+386,59,Chicago,Web,82,Morning
+387,47,Boston,Android,88,Morning
+388,36,Boston,Android,117,Evening
+389,34,Chicago,Android,29,Afternoon
+390,36,Chicago,Android,172,Morning
+391,45,Seattle,iOS,92,Afternoon
+392,43,Boston,iOS,18,Morning
+393,54,Boston,Android,158,Afternoon
+394,43,New York,iOS,106,Afternoon
+395,40,Seattle,Android,154,Morning
+396,26,New York,Web,180,Evening
+397,29,Boston,Web,87,Afternoon
+398,18,Seattle,Web,114,Evening
+399,18,Chicago,Android,183,Evening
+400,51,Seattle,Web,135,Morning
+401,49,Chicago,iOS,174,Morning
+402,42,Chicago,Web,23,Morning
+403,57,Seattle,Web,32,Afternoon
+404,18,Chicago,Web,177,Morning
+405,33,New York,iOS,75,Morning
+406,56,Boston,Android,67,Afternoon
+407,22,Chicago,iOS,77,Afternoon
+408,39,New York,Android,128,Morning
+409,46,Chicago,Android,123,Morning
+410,20,Boston,Web,125,Morning
+411,29,New York,Android,23,Morning
+412,43,Boston,iOS,179,Evening
+413,33,Boston,iOS,146,Evening
+414,54,New York,Android,124,Morning
+415,39,New York,Web,170,Evening
+416,46,New York,Web,185,Afternoon
+417,31,Seattle,iOS,65,Evening
+418,45,New York,Web,168,Evening
+419,22,New York,Android,172,Morning
+420,47,New York,Android,34,Evening
+421,22,New York,iOS,13,Evening
+422,29,Chicago,Android,68,Evening
+423,33,Seattle,iOS,165,Evening
+424,43,Boston,Android,124,Afternoon
+425,43,New York,iOS,56,Morning
+426,38,Chicago,Web,93,Morning
+427,56,Chicago,Android,146,Afternoon
+428,53,Chicago,Android,57,Evening
+429,50,Boston,iOS,191,Afternoon
+430,47,New York,iOS,82,Evening
+431,54,Seattle,Android,45,Afternoon
+432,40,Seattle,iOS,72,Morning
+433,27,Chicago,Android,12,Morning
+434,22,Boston,Web,6,Morning
+435,53,Boston,iOS,109,Evening
+436,51,Boston,Android,129,Evening
+437,48,Seattle,Web,114,Afternoon
+438,27,Chicago,Web,90,Afternoon
+439,36,New York,Android,173,Morning
+440,49,Seattle,iOS,124,Evening
+441,18,Chicago,Android,131,Afternoon
+442,22,Chicago,Web,187,Evening
+443,21,New York,Android,20,Evening
+444,33,New York,iOS,66,Morning
+445,41,New York,Web,117,Morning
+446,33,Boston,Android,180,Evening
+447,19,New York,iOS,162,Evening
+448,45,Chicago,Web,16,Evening
+449,49,New York,iOS,39,Evening
+450,44,Chicago,Web,15,Morning
+451,37,Seattle,Android,68,Afternoon
+452,41,Boston,iOS,54,Morning
+453,29,Seattle,Web,153,Afternoon
+454,52,Seattle,iOS,73,Evening
+455,50,Chicago,iOS,52,Afternoon
+456,50,Seattle,Android,24,Morning
+457,54,Chicago,iOS,105,Morning
+458,29,New York,Web,199,Evening
+459,20,New York,Web,176,Morning
+460,18,Chicago,Web,165,Evening
+461,50,New York,Web,193,Morning
+462,57,Boston,Android,141,Morning
+463,27,Seattle,iOS,72,Evening
+464,46,Boston,Android,39,Afternoon
+465,30,Seattle,iOS,69,Morning
+466,29,New York,iOS,12,Afternoon
+467,48,Boston,iOS,49,Morning
+468,19,New York,Android,91,Morning
+469,52,Seattle,iOS,179,Morning
+470,40,Chicago,Android,172,Morning
+471,34,Chicago,Web,80,Afternoon
+472,43,Boston,Web,186,Afternoon
+473,25,New York,iOS,80,Morning
+474,46,New York,Android,178,Morning
+475,43,Boston,Web,51,Afternoon
+476,27,Chicago,Android,19,Evening
+477,43,Seattle,Android,109,Evening
+478,51,Boston,iOS,151,Afternoon
+479,58,Seattle,Web,30,Morning
+480,24,Chicago,iOS,56,Morning
+481,21,New York,iOS,97,Evening
+482,28,Chicago,Web,154,Evening
+483,46,Boston,Web,25,Afternoon
+484,53,New York,Android,55,Evening
+485,42,Boston,Web,42,Afternoon
+486,38,Boston,Android,24,Evening
+487,53,Chicago,Android,161,Evening
+488,27,Boston,Android,183,Evening
+489,54,Chicago,Web,136,Morning
+490,26,New York,iOS,59,Morning
+491,41,Chicago,Android,96,Morning
+492,52,New York,iOS,32,Evening
+493,52,Chicago,iOS,8,Afternoon
+494,53,Seattle,Web,154,Afternoon
+495,35,Seattle,iOS,80,Afternoon
+496,56,Boston,iOS,177,Afternoon
+497,49,Chicago,Web,71,Morning
+498,41,Chicago,Android,90,Morning
+499,40,New York,iOS,198,Evening
+500,49,Boston,Web,166,Evening
+501,54,Chicago,iOS,95,Afternoon
+502,29,Boston,iOS,187,Morning
+503,30,Seattle,Android,109,Afternoon
+504,40,Chicago,iOS,5,Evening
+505,42,Chicago,Web,76,Evening
+506,52,Boston,iOS,91,Afternoon
+507,58,Chicago,Android,170,Evening
+508,47,Boston,Android,10,Afternoon
+509,34,Chicago,Web,157,Morning
+510,37,New York,Android,149,Afternoon
+511,42,Boston,iOS,65,Morning
+512,39,Chicago,Android,16,Morning
+513,30,Seattle,Web,10,Evening
+514,36,Chicago,Android,31,Evening
+515,53,Seattle,Android,140,Evening
+516,29,Seattle,Android,128,Afternoon
+517,58,New York,Web,110,Afternoon
+518,36,Boston,Android,197,Evening
+519,29,Chicago,Android,189,Afternoon
+520,26,New York,iOS,97,Evening
+521,24,Chicago,Web,113,Afternoon
+522,45,Seattle,Android,103,Morning
+523,31,Boston,Web,172,Morning
+524,48,Chicago,Android,146,Evening
+525,36,Chicago,Android,39,Afternoon
+526,33,Seattle,Android,180,Afternoon
+527,22,Chicago,iOS,88,Morning
+528,52,Chicago,iOS,60,Morning
+529,29,Seattle,iOS,181,Evening
+530,42,New York,Web,145,Morning
+531,38,Seattle,Web,193,Evening
+532,53,New York,iOS,53,Morning
+533,40,Boston,Web,50,Morning
+534,33,New York,Android,117,Afternoon
+535,56,New York,Android,194,Morning
+536,59,Boston,Android,140,Morning
+537,56,New York,iOS,47,Evening
+538,31,Seattle,Web,152,Morning
+539,48,New York,iOS,128,Evening
+540,22,Boston,Web,101,Morning
+541,52,Seattle,Android,94,Morning
+542,40,Boston,iOS,43,Evening
+543,46,Boston,Web,89,Afternoon
+544,28,Chicago,Web,181,Evening
+545,35,Chicago,Android,196,Evening
+546,29,Boston,iOS,66,Evening
+547,26,Boston,iOS,110,Afternoon
+548,27,Boston,iOS,111,Morning
+549,34,Chicago,Android,58,Evening
+550,55,Chicago,iOS,130,Evening
+551,24,New York,Android,13,Afternoon
+552,30,New York,Android,92,Evening
+553,57,Boston,Android,41,Morning
+554,59,Seattle,Web,53,Afternoon
+555,26,Seattle,iOS,45,Morning
+556,44,Chicago,iOS,21,Morning
+557,19,Chicago,Android,92,Afternoon
+558,22,Chicago,Android,25,Evening
+559,46,Boston,iOS,55,Morning
+560,54,Seattle,Android,63,Morning
+561,55,New York,iOS,171,Morning
+562,36,Boston,Web,187,Morning
+563,25,New York,Android,45,Afternoon
+564,18,New York,iOS,43,Afternoon
+565,39,Boston,Android,145,Morning
+566,34,New York,iOS,196,Evening
+567,24,Seattle,iOS,15,Morning
+568,42,New York,Android,151,Evening
+569,21,Seattle,Web,143,Morning
+570,53,Seattle,iOS,81,Evening
+571,23,Seattle,iOS,131,Morning
+572,48,Chicago,iOS,50,Evening
+573,36,New York,Web,49,Morning
+574,56,Boston,Web,5,Morning
+575,44,Boston,Android,172,Evening
+576,27,New York,Web,112,Afternoon
+577,43,Chicago,Android,23,Evening
+578,36,Chicago,Android,80,Afternoon
+579,56,Seattle,Web,76,Morning
+580,20,New York,Android,193,Evening
+581,30,New York,Web,113,Evening
+582,45,Boston,Android,16,Evening
+583,37,New York,Web,193,Afternoon
+584,45,Chicago,Web,165,Afternoon
+585,25,New York,Android,49,Morning
+586,58,Boston,iOS,94,Afternoon
+587,56,Seattle,Android,107,Afternoon
+588,18,Boston,Web,12,Morning
+589,20,Boston,iOS,157,Evening
+590,30,Seattle,Android,95,Evening
+591,45,Boston,Android,178,Morning
+592,42,Boston,Android,91,Evening
+593,50,New York,iOS,162,Afternoon
+594,55,New York,Web,179,Morning
+595,23,Seattle,Android,181,Morning
+596,49,New York,Android,179,Morning
+597,38,New York,Android,88,Evening
+598,33,Boston,Android,86,Morning
+599,38,Chicago,Android,150,Morning
+600,28,New York,Web,198,Morning
+601,54,Chicago,Web,72,Evening
+602,53,New York,Android,165,Afternoon
+603,52,New York,iOS,131,Morning
+604,36,Seattle,Web,168,Afternoon
+605,37,Seattle,iOS,86,Evening
+606,35,Seattle,Web,151,Evening
+607,58,Chicago,Android,160,Evening
+608,31,Boston,Web,172,Evening
+609,32,New York,Android,88,Afternoon
+610,48,New York,Web,117,Morning
+611,18,New York,Android,80,Evening
+612,20,Chicago,Android,126,Evening
+613,33,Seattle,Android,147,Afternoon
+614,40,Boston,Android,45,Afternoon
+615,28,Chicago,iOS,171,Evening
+616,29,Seattle,Android,6,Morning
+617,27,Chicago,iOS,195,Morning
+618,49,Boston,iOS,33,Evening
+619,33,Seattle,Android,109,Afternoon
+620,25,Chicago,iOS,198,Evening
+621,55,Boston,Web,55,Evening
+622,29,New York,Android,79,Afternoon
+623,41,Boston,iOS,14,Evening
+624,45,New York,Android,146,Evening
+625,25,Chicago,Android,55,Evening
+626,45,Seattle,Android,122,Afternoon
+627,53,Seattle,iOS,125,Morning
+628,43,Chicago,Web,43,Morning
+629,25,Seattle,Web,32,Afternoon
+630,45,Seattle,iOS,7,Morning
+631,45,New York,Android,88,Evening
+632,54,Chicago,iOS,159,Morning
+633,58,Boston,iOS,121,Evening
+634,53,New York,iOS,6,Morning
+635,44,Chicago,Android,97,Afternoon
+636,34,New York,iOS,170,Morning
+637,26,Boston,Android,135,Morning
+638,50,Boston,iOS,148,Morning
+639,37,Chicago,Web,98,Afternoon
+640,30,Boston,iOS,44,Morning
+641,45,New York,iOS,6,Afternoon
+642,46,Boston,Web,85,Evening
+643,30,New York,Android,173,Morning
+644,52,New York,Android,16,Afternoon
+645,23,Boston,iOS,167,Afternoon
+646,35,Chicago,Web,69,Morning
+647,22,Seattle,Android,59,Evening
+648,42,Boston,iOS,49,Afternoon
+649,19,New York,Web,105,Morning
+650,27,New York,Android,66,Evening
+651,47,Boston,Android,53,Afternoon
+652,22,Chicago,Web,131,Afternoon
+653,50,Chicago,Web,157,Evening
+654,18,New York,Web,27,Evening
+655,35,New York,Web,156,Morning
+656,49,Chicago,iOS,42,Morning
+657,28,Seattle,Web,32,Afternoon
+658,38,Boston,Android,25,Evening
+659,43,New York,Android,186,Evening
+660,42,New York,iOS,111,Evening
+661,39,Chicago,Android,150,Afternoon
+662,44,Boston,Android,168,Evening
+663,30,Chicago,Web,103,Evening
+664,50,Boston,Android,177,Afternoon
+665,51,Boston,iOS,123,Morning
+666,58,Boston,Web,77,Morning
+667,52,New York,Web,185,Afternoon
+668,18,Seattle,iOS,126,Evening
+669,38,Chicago,Web,34,Afternoon
+670,23,Seattle,Web,192,Morning
+671,45,Chicago,iOS,112,Morning
+672,34,Boston,Web,102,Afternoon
+673,22,New York,iOS,36,Afternoon
+674,48,Seattle,iOS,199,Morning
+675,22,New York,Android,199,Afternoon
+676,55,Chicago,Android,160,Morning
+677,20,New York,Web,176,Afternoon
+678,40,New York,Web,83,Afternoon
+679,54,Seattle,iOS,45,Afternoon
+680,54,Boston,Web,67,Morning
+681,27,New York,iOS,27,Afternoon
+682,27,Boston,iOS,108,Morning
+683,36,Chicago,Web,79,Morning
+684,34,New York,iOS,52,Afternoon
+685,38,Seattle,Android,164,Afternoon
+686,31,Chicago,Web,61,Morning
+687,26,Chicago,Android,122,Morning
+688,18,Seattle,Web,104,Evening
+689,30,New York,iOS,128,Morning
+690,21,New York,Web,165,Evening
+691,18,Chicago,Android,156,Evening
+692,57,New York,iOS,171,Evening
+693,49,Boston,Web,38,Afternoon
+694,51,Seattle,Web,188,Afternoon
+695,45,Boston,Web,160,Morning
+696,48,New York,Android,169,Evening
+697,25,Chicago,Android,11,Afternoon
+698,56,Seattle,Web,169,Afternoon
+699,43,New York,iOS,60,Afternoon
+700,51,New York,iOS,69,Afternoon
+701,20,Chicago,Android,197,Afternoon
+702,29,Chicago,iOS,51,Evening
+703,18,Boston,Android,152,Evening
+704,22,Seattle,Web,23,Evening
+705,47,Seattle,Android,161,Evening
+706,47,Chicago,Android,192,Morning
+707,34,Boston,Web,150,Evening
+708,40,Seattle,iOS,167,Afternoon
+709,32,Chicago,Android,175,Evening
+710,54,New York,Android,130,Morning
+711,38,Seattle,Web,143,Afternoon
+712,31,Boston,iOS,53,Evening
+713,19,Boston,Android,117,Evening
+714,28,Boston,Web,42,Evening
+715,56,New York,Android,68,Afternoon
+716,55,Seattle,Web,73,Afternoon
+717,51,Seattle,iOS,140,Morning
+718,55,New York,iOS,166,Afternoon
+719,51,Seattle,iOS,180,Afternoon
+720,35,New York,iOS,120,Evening
+721,47,New York,Android,188,Afternoon
+722,32,New York,Android,69,Evening
+723,44,Boston,iOS,35,Evening
+724,51,Seattle,iOS,136,Afternoon
+725,55,New York,iOS,117,Morning
+726,50,Seattle,Android,113,Morning
+727,41,Boston,iOS,182,Afternoon
+728,32,New York,iOS,73,Morning
+729,47,Chicago,iOS,162,Evening
+730,59,Boston,Web,124,Evening
+731,34,Chicago,iOS,92,Afternoon
+732,22,Seattle,Web,191,Morning
+733,46,Seattle,Web,71,Morning
+734,21,Boston,iOS,79,Evening
+735,27,Seattle,Web,49,Afternoon
+736,34,Chicago,iOS,8,Morning
+737,27,New York,Android,158,Afternoon
+738,34,New York,Android,159,Morning
+739,37,New York,Android,178,Evening
+740,41,Boston,Android,111,Evening
+741,22,Seattle,Web,196,Afternoon
+742,51,Chicago,iOS,55,Evening
+743,23,Seattle,iOS,54,Morning
+744,19,Seattle,iOS,10,Evening
+745,30,Seattle,Android,63,Afternoon
+746,28,New York,Android,129,Afternoon
+747,40,Chicago,iOS,147,Afternoon
+748,33,Chicago,Android,34,Morning
+749,48,Seattle,iOS,174,Morning
+750,28,New York,iOS,126,Morning
+751,33,New York,iOS,129,Morning
+752,25,Chicago,iOS,41,Morning
+753,21,New York,iOS,174,Evening
+754,57,New York,iOS,128,Morning
+755,21,New York,iOS,105,Morning
+756,42,Boston,Android,39,Evening
+757,20,Seattle,iOS,91,Morning
+758,49,Chicago,iOS,138,Afternoon
+759,20,Chicago,Android,22,Morning
+760,44,Boston,Android,117,Morning
+761,46,Seattle,Android,33,Afternoon
+762,49,Chicago,iOS,81,Afternoon
+763,36,New York,Web,63,Afternoon
+764,38,Chicago,Web,179,Afternoon
+765,22,New York,Android,130,Morning
+766,35,Boston,Web,149,Afternoon
+767,45,New York,Android,113,Afternoon
+768,59,Chicago,iOS,26,Evening
+769,39,Chicago,Web,72,Afternoon
+770,38,Chicago,iOS,73,Afternoon
+771,23,Boston,Web,169,Evening
+772,18,Boston,iOS,53,Evening
+773,22,Seattle,Web,145,Morning
+774,58,Chicago,iOS,166,Evening
+775,29,New York,iOS,113,Morning
+776,43,Boston,Web,90,Evening
+777,51,Chicago,iOS,57,Evening
+778,31,Chicago,iOS,127,Morning
+779,43,Boston,iOS,91,Evening
+780,44,Seattle,Web,183,Morning
+781,26,Boston,Web,135,Evening
+782,43,Boston,iOS,46,Afternoon
+783,39,New York,iOS,102,Evening
+784,47,New York,Web,164,Morning
+785,34,Seattle,Web,113,Evening
+786,43,Chicago,iOS,55,Morning
+787,53,Boston,iOS,89,Morning
+788,18,Seattle,iOS,178,Afternoon
+789,25,New York,Android,131,Afternoon
+790,52,Boston,Web,25,Morning
+791,32,Chicago,Android,48,Evening
+792,39,New York,Web,143,Morning
+793,31,New York,Web,107,Morning
+794,43,New York,Web,72,Evening
+795,45,Seattle,Web,133,Evening
+796,40,Chicago,Web,96,Evening
+797,31,Boston,Web,195,Evening
+798,41,Seattle,Web,28,Morning
+799,19,Seattle,Android,129,Morning
+800,43,Seattle,iOS,145,Afternoon
+801,31,New York,iOS,115,Morning
+802,24,Chicago,Android,102,Evening
+803,20,Seattle,Android,143,Afternoon
+804,40,Boston,Android,183,Evening
+805,35,Chicago,Android,21,Morning
+806,55,Boston,Web,103,Afternoon
+807,52,Chicago,iOS,86,Evening
+808,32,Boston,Web,108,Afternoon
+809,42,New York,iOS,156,Afternoon
+810,54,Seattle,iOS,23,Morning
+811,45,Boston,Android,169,Evening
+812,27,Chicago,Web,89,Afternoon
+813,56,Seattle,Android,12,Afternoon
+814,34,Seattle,Web,32,Evening
+815,56,Chicago,iOS,9,Afternoon
+816,39,Boston,Android,149,Afternoon
+817,43,New York,Android,105,Afternoon
+818,42,New York,iOS,168,Evening
+819,34,Boston,iOS,122,Evening
+820,30,Seattle,iOS,151,Evening
+821,37,Seattle,Android,68,Evening
+822,42,Seattle,Web,95,Morning
+823,21,Seattle,Android,121,Afternoon
+824,27,Boston,Web,102,Evening
+825,20,Seattle,Android,15,Afternoon
+826,58,Chicago,Android,58,Afternoon
+827,35,Seattle,iOS,177,Morning
+828,53,New York,Web,51,Evening
+829,39,Seattle,Android,144,Evening
+830,51,Boston,Android,153,Afternoon
+831,25,New York,iOS,143,Evening
+832,57,Boston,iOS,9,Afternoon
+833,36,Boston,Web,188,Afternoon
+834,59,New York,Android,24,Morning
+835,58,Boston,Web,173,Morning
+836,54,Boston,Android,50,Morning
+837,23,Seattle,Web,16,Afternoon
+838,43,Chicago,iOS,74,Evening
+839,51,Boston,Android,21,Morning
+840,23,Boston,Web,119,Evening
+841,54,Boston,iOS,151,Morning
+842,50,Seattle,iOS,158,Morning
+843,39,Chicago,Web,52,Afternoon
+844,38,New York,Android,112,Morning
+845,23,Seattle,Android,56,Morning
+846,23,Seattle,iOS,100,Afternoon
+847,21,Chicago,Android,74,Evening
+848,47,Chicago,Android,187,Morning
+849,28,Seattle,Android,106,Afternoon
+850,47,New York,iOS,79,Morning
+851,48,Seattle,Web,165,Afternoon
+852,41,Chicago,Android,194,Evening
+853,26,New York,iOS,155,Evening
+854,20,Chicago,iOS,147,Afternoon
+855,48,New York,Web,159,Afternoon
+856,57,Boston,Android,196,Afternoon
+857,54,Chicago,Android,183,Evening
+858,53,Chicago,Web,185,Morning
+859,41,Seattle,Web,86,Evening
+860,48,Chicago,iOS,96,Afternoon
+861,23,Chicago,iOS,183,Afternoon
+862,19,Boston,Web,179,Evening
+863,37,Chicago,Android,8,Afternoon
+864,45,Boston,iOS,139,Evening
+865,28,Boston,iOS,113,Afternoon
+866,21,Boston,Android,167,Morning
+867,32,Boston,iOS,52,Morning
+868,23,New York,Android,77,Afternoon
+869,47,Seattle,Android,76,Evening
+870,55,New York,Android,120,Morning
+871,19,Chicago,Web,177,Evening
+872,32,New York,Web,85,Afternoon
+873,28,New York,Web,85,Evening
+874,25,Chicago,Android,117,Morning
+875,43,Chicago,Android,100,Evening
+876,22,Chicago,Web,76,Evening
+877,23,New York,iOS,151,Afternoon
+878,43,New York,Android,67,Afternoon
+879,21,Chicago,iOS,42,Afternoon
+880,36,Seattle,iOS,71,Morning
+881,37,Seattle,Android,191,Morning
+882,50,Boston,Android,73,Afternoon
+883,37,Chicago,iOS,17,Afternoon
+884,29,Boston,iOS,179,Morning
+885,18,Seattle,Web,193,Morning
+886,43,Boston,Web,35,Morning
+887,31,Chicago,Android,118,Morning
+888,55,Chicago,Web,26,Afternoon
+889,54,Chicago,Web,97,Morning
+890,28,New York,Web,175,Afternoon
+891,53,Boston,Web,71,Evening
+892,30,Seattle,iOS,58,Evening
+893,20,Seattle,Android,142,Morning
+894,50,Seattle,Web,46,Evening
+895,23,New York,iOS,68,Evening
+896,27,New York,iOS,130,Evening
+897,22,Chicago,iOS,25,Morning
+898,40,Seattle,Web,198,Morning
+899,27,New York,Web,173,Evening
+900,19,Chicago,Android,156,Afternoon
+901,30,Seattle,Web,39,Evening
+902,57,Boston,Web,188,Morning
+903,19,Chicago,iOS,34,Morning
+904,37,New York,Android,61,Morning
+905,18,New York,Web,51,Evening
+906,54,Chicago,Web,167,Afternoon
+907,26,Chicago,iOS,23,Morning
+908,34,New York,iOS,118,Morning
+909,26,Boston,Web,12,Evening
+910,28,Seattle,Android,30,Afternoon
+911,32,Boston,Android,117,Evening
+912,41,Chicago,iOS,75,Morning
+913,55,Boston,iOS,34,Afternoon
+914,52,New York,Web,139,Afternoon
+915,47,Chicago,iOS,71,Morning
+916,48,Seattle,Web,69,Afternoon
+917,22,New York,Android,40,Afternoon
+918,31,New York,Android,29,Evening
+919,28,Seattle,Web,41,Morning
+920,26,Seattle,iOS,5,Morning
+921,51,Boston,Android,147,Morning
+922,29,Chicago,iOS,41,Morning
+923,52,Seattle,Android,145,Morning
+924,52,Seattle,Web,140,Afternoon
+925,18,Chicago,Web,137,Evening
+926,57,Seattle,Web,192,Morning
+927,39,Seattle,Android,132,Evening
+928,46,Boston,iOS,131,Evening
+929,25,New York,iOS,5,Afternoon
+930,28,New York,iOS,168,Morning
+931,58,New York,Android,39,Afternoon
+932,54,New York,Android,198,Morning
+933,31,Seattle,Android,195,Afternoon
+934,47,Chicago,Android,108,Evening
+935,52,Chicago,Android,27,Morning
+936,38,Boston,iOS,13,Evening
+937,54,Boston,Android,38,Evening
+938,22,Seattle,Android,178,Afternoon
+939,36,Chicago,iOS,132,Morning
+940,31,Chicago,Android,8,Evening
+941,43,New York,iOS,162,Afternoon
+942,21,Seattle,iOS,106,Morning
+943,42,Seattle,Web,79,Morning
+944,59,New York,Web,103,Evening
+945,42,Seattle,Web,76,Morning
+946,35,Seattle,Web,7,Evening
+947,57,Boston,Android,146,Morning
+948,25,Chicago,Web,192,Afternoon
+949,56,Seattle,iOS,177,Evening
+950,57,Boston,Android,38,Evening
+951,31,Chicago,Web,49,Morning
+952,49,New York,iOS,65,Morning
+953,55,Boston,Android,87,Evening
+954,50,Boston,Android,127,Morning
+955,40,Chicago,Web,106,Afternoon
+956,32,New York,Android,20,Morning
+957,50,Boston,iOS,70,Afternoon
+958,42,Seattle,Android,172,Afternoon
+959,34,Seattle,iOS,149,Afternoon
+960,50,Seattle,Android,123,Afternoon
+961,19,New York,Web,166,Afternoon
+962,31,Boston,iOS,128,Morning
+963,57,Seattle,Android,148,Afternoon
+964,57,New York,Android,106,Morning
+965,56,Seattle,Android,192,Afternoon
+966,23,Chicago,iOS,70,Evening
+967,23,Boston,iOS,198,Afternoon
+968,20,Boston,iOS,17,Evening
+969,24,New York,Web,188,Afternoon
+970,25,New York,Web,115,Afternoon
+971,59,Boston,iOS,163,Afternoon
+972,32,Seattle,Android,38,Evening
+973,46,Seattle,Web,43,Evening
+974,50,Chicago,iOS,199,Afternoon
+975,47,Seattle,Android,140,Morning
+976,56,New York,Web,124,Afternoon
+977,44,New York,Android,130,Evening
+978,53,Seattle,Android,59,Afternoon
+979,46,New York,Android,31,Evening
+980,55,Boston,Android,122,Evening
+981,50,Boston,Web,57,Evening
+982,54,Seattle,Web,43,Afternoon
+983,44,Boston,Web,69,Evening
+984,50,Boston,iOS,149,Evening
+985,21,Chicago,Web,162,Afternoon
+986,39,Chicago,Android,185,Evening
+987,19,Boston,Web,17,Afternoon
+988,27,Seattle,Android,25,Evening
+989,22,Chicago,iOS,151,Morning
+990,27,New York,Android,57,Morning
+991,50,New York,Android,23,Evening
+992,55,New York,Android,61,Morning
+993,30,Seattle,iOS,29,Afternoon
+994,48,Boston,Web,35,Morning
+995,53,New York,Web,85,Evening
+996,41,Seattle,iOS,187,Evening
+997,32,Chicago,Android,27,Afternoon
+998,46,Boston,Web,36,Evening
+999,25,Chicago,iOS,194,Afternoon
+1000,22,Seattle,Web,78,Morning
