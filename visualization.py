@@ -10,9 +10,9 @@ SELECT city, AVG(purchase_amount) as avg_purchase
 FROM users
 GROUP BY city
 """
-avg_purchase_city = pd.read_sql_query(query1, conn)
+df = pd.read_sql_query(query1, conn)
 sns.set_theme()
-sns.barplot(x="city", y="avg_purchase", data=avg_purchase_city)
+sns.barplot(x="city", y="avg_purchase", data=df)
 plt.title("Average purchase by city")
 plt.show()
 
@@ -21,8 +21,8 @@ SELECT platform, COUNT(*) as users
 FROM users
 GROUP BY platform
 """
-user_platform = pd.read_sql_query(query2,conn)
-sns.barplot(x="platform", y="users",data=user_platform)
+df = pd.read_sql_query(query2,conn)
+sns.barplot(x="platform", y="users",data=df)
 plt.title("Users count by platform")
 plt.show()
 
@@ -31,9 +31,19 @@ SELECT age
 FROM users
 GROUP BY age
 """
-age_distribution = pd.read_sql_query(query3,conn)
-sns.histplot(age_distribution["age"],bins=20)
+df = pd.read_sql_query(query3,conn)
+sns.histplot(df["age"],bins=20)
 plt.title("Age_distribution")
+plt.show()
+
+query4 = """
+SELECT city, platform, AVG(purchase_amount) as avg_purchase
+FROM users
+GROUP BY city, platform
+"""
+df = pd.read_sql_query(query4, conn)
+sns.barplot(x="city", y="avg_purchase", hue="platform", data=df)
+plt.title("Average purchase by city and platform")
 plt.show()
 
 conn.close()

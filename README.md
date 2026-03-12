@@ -40,6 +40,14 @@ We analyzed which platform has the highest average purchase.
 - SQL
 
 ## Key findings
-1. Users distribution across cities is relatively balanced and New York shows the highest purchase amount among all cities.
-2. iOS users tend to have slightly lower average purchase amount.
-3. Evening visits show the lowest average spending.
+1. Users distribution across cities is relatively balanced
+2. Users in New York show slightly higher average purchases compare to other cities
+3. iOS users tend to have slightly lower average purchase amount.
+4. Evening visits show the lowest average spending.
+
+## Visualization
+We visualized several aspects of the dataset
+- Average purchase by city
+- Users count by platform
+- Age distribution
+- Average purchase by city and platform
